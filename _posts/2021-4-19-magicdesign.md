@@ -25,7 +25,7 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 </details>
 
 <details>
-  <summary>2. How to use <code>magicdesignee</code></summary>
+  <summary>2. How to use <code>magicdesignee</code>?</summary>
   You can access <code>magicdesignee</code> [here](https://magicdesign.shinyapps.io/magicdesignee/).
 </details>
 
