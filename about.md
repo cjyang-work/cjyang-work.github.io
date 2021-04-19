@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am CJ Yang, a postdoc at SRUC working in plant quantitative genetics with Prof. Ian Mackay, Prof. Wayne Powell, Dr. Rajiv Sharma, Dr. Ian Dawson and Dr. David Marshall.
 
-### More Information
+## Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[cyang@sruc.ac.uk](mailto:cyang@sruc.ac.uk)
