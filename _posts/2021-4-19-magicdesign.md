@@ -15,9 +15,19 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 ## Frequently asked questions (FAQs)
 <details>
   <summary>1. How to use <code>magicdesign</code>?</summary>
-Install in R, go here for instructions.
+  First, make sure you have <code>devtools</code> installed in <code>R</code>. Skip this if you already have <code>devtools</code>.
+  <code>install.packages("devtools")</code>
+  Next, install <code>magicdesign</code>.
+  <code>devtools::install_github("cjyang-sruc/magicdesign")</code>
+  If the installation is successful, run the following:
+  <code>library(magicdesign)</code>
+  Detailed user instructions can be found [here](https://cjyang-sruc.github.io/magicdesign_vignette).
 </details>
 
+<details>
+  <summary>2. How to use <code>magicdesignee</code></summary>
+  You can access <code>magicdesignee</code> [here](https://magicdesign.shinyapps.io/magicdesignee/).
+</details>
 
 ## Contact us
 You can reach me at [cyang@sruc.ac.uk](mailto:cyang@sruc.ac.uk) for any question or suggestion.
