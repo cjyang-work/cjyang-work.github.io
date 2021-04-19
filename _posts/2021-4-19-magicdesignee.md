@@ -16,20 +16,14 @@ Welcome to :sparkles: `magicdesignee` :sparkles:!
 </details>
 
 <details>
-  <summary>2.</summary>
-  <p>abcdef</p>
+  <summary>2. I have an issue!</summary>
+  <p>Please report the issue with error codes to <a href="mailto=:cyang@sruc.ac.uk">cyang@sruc.ac.uk</a>.</p>
   <br>
 </details>
 
 <details>
-  <summary>2.</summary>
-  <p>abcdef</p>
-  <br>
-</details>
-
-<details>
-  <summary>2.</summary>
-  <p>abcdef</p>
+  <summary>3. TBA</summary>
+  <p>TBA</p>
   <br>
 </details>
 
