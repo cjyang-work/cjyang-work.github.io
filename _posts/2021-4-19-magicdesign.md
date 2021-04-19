@@ -4,13 +4,11 @@ title: magicdesign
 ---
 
 ## Short introduction
-Welcome to the homepage for `magicdesign`!
+Welcome to :star2: `magicdesign` :star2:!
 
 MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined population of multiple founders. MAGIC population is a versatile genetic resource for quantitative trait locus (QTL) mapping, fine-mapping, GxE dissection, genomic prediction, breeding and many more. Please check [this](https://doi.org/10.1038/s41437-020-0336-6) out for an in-depth review of MAGIC.
 
-:star2: `magicdesign` is an R package devoted to creating and testing MAGIC population designs via simulations. Click [here](https://cjyang-sruc.github.io/magicdesign_vignette) for detailed instructions on installation and usage.
-
-:sparkles: `magicdesignee` is a Shiny app that runs `magicdesign` in its backend. No experience in R is required, all that is needed is [this](https://magicdesign.shinyapps.io/magicdesignee/)!
+`magicdesign` is an R package devoted to creating and testing MAGIC population designs via simulations. Click [here](https://cjyang-sruc.github.io/magicdesign_vignette) for detailed instructions on installation and usage.
 
 ## Frequently asked questions (FAQs)
 <details>
@@ -26,8 +24,26 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 </details>
 
 <details>
-  <summary>2. How to use <code>magicdesignee</code>?</summary>
-  <p>You can access <code>magicdesignee</code> <a href="https://magicdesign.shinyapps.io/magicdesignee">here</a>.</p>
+  <summary>2.</summary>
+  <p>abcdef</p>
+  <br>
+</details>
+
+<details>
+  <summary>2.</summary>
+  <p>abcdef</p>
+  <br>
+</details>
+
+<details>
+  <summary>2.</summary>
+  <p>abcdef</p>
+  <br>
+</details>
+
+<details>
+  <summary>2.</summary>
+  <p>abcdef</p>
   <br>
 </details>
 
