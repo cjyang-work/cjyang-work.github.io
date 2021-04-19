@@ -3,7 +3,7 @@ layout: post
 title: magicdesign
 ---
 
-## Short introduction
+## Introduction
 Welcome to :star2: `magicdesign` :star2:!
 
 MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined population of multiple founders. MAGIC population is a versatile genetic resource for quantitative trait locus (QTL) mapping, fine-mapping, GxE dissection, genomic prediction, breeding and many more. Please check [this](https://doi.org/10.1038/s41437-020-0336-6) out for an in-depth review of MAGIC.
