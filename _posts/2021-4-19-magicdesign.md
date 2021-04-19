@@ -22,11 +22,13 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
   <p>If the installation is successful, run the following:</p>
   <p><code>library(magicdesign)</code></p>
   <p>Detailed user instructions can be found <a href="https://cjyang-sruc.github.io/magicdesign_vignette">here</a>.</p>
+  <br>
 </details>
 
 <details>
   <summary>2. How to use <code>magicdesignee</code>?</summary>
   <p>You can access <code>magicdesignee</code> <a href="https://magicdesign.shinyapps.io/magicdesignee">here</a>.</p>
+  <br>
 </details>
 
 ## Contact us
