@@ -16,23 +16,22 @@ Welcome to :sparkles: `magicdesignee` :sparkles:!
 </details>
 
 <details>
-  <summary>
-  <p>2.</p>
+  <summary>2.</summary>
+  <p>abcdef</p>
   <br>
 </details>
 
 <details>
-  <summary>
-  <p>3.</p>
+  <summary>2.</summary>
+  <p>abcdef</p>
   <br>
 </details>
 
 <details>
-  <summary>
-  <p>.</p>
+  <summary>2.</summary>
+  <p>abcdef</p>
   <br>
 </details>
-
 
 ## Contact us
 You can reach me at [cyang@sruc.ac.uk](mailto:cyang@sruc.ac.uk) for any question or suggestion.
