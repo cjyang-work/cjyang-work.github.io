@@ -12,7 +12,7 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 
 :sparkles: `magicdesignee` is a Shiny app that runs `magicdesign` in its backend. No experience in R is required, all that is needed is [this](https://magicdesign.shinyapps.io/magicdesignee/)!
 
-## Frequently asked questions (FAQ)
+## Frequently asked questions (FAQs)
 <details>
   <summary>1. How to use <code>magicdesign</code>?</summary>
 Install in R, go here for instructions.
