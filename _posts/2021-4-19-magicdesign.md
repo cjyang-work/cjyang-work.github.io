@@ -8,7 +8,7 @@ Welcome to :star2: `magicdesign` :star2:!
 
 MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined population of multiple founders. MAGIC population is a versatile genetic resource for quantitative trait locus (QTL) mapping, fine-mapping, GxE dissection, genomic prediction, breeding and many more. Please check [this](https://doi.org/10.1038/s41437-020-0336-6) out for an in-depth review of MAGIC.
 
-`magicdesign` is an R package devoted to creating and testing MAGIC population designs via simulations. Click [here](https://cjyang-sruc.github.io/files/magicdesign_vignette) for detailed instructions on installation and usage.
+`magicdesign` is an R package devoted to creating and testing MAGIC population designs via simulations. Click [here](https://cjyang-sruc.github.io/magicdesign_vignette) for detailed instructions on installation and usage.
 
 ## Frequently asked questions (FAQs)
 <details>
