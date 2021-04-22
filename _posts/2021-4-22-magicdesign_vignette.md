@@ -1,6 +1,6 @@
 ---
 layout: default
-title: vignette
+title: vignette2
 ---
 
 {% include magicdesign_vignette2.html %}
