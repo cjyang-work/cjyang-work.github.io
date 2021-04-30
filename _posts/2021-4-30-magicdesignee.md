@@ -11,6 +11,13 @@ Welcome to :sparkles: `magicdesignee` :sparkles:!
 * Local version is available by running `magicdesign::magicdesignee()` in `R`.
 * Web version is available [here](https://magicdesign.shinyapps.io/magicdesignee/).
 
+<iframe width="640" height="360"
+src="https://www.youtube-nocookie.com/embed/94JgxeRFSxc"
+title="MAGIC population design"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
 ## Frequently asked questions (FAQs)
 <details>
   <summary>1. How to use <code>magicdesignee</code> locally?</summary>
