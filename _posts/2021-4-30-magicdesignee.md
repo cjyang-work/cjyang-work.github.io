@@ -26,7 +26,7 @@ Welcome to :sparkles: `magicdesignee` :sparkles:!
 
 <details>
   <summary>3. Why is the web version not working for me?</summary>
-  <p>There are several possibilities: the design is too much for the Shiny app server, the Shiny app has run out of its 25 hours of free monthly allowance, or the Shiny app has encountered a bug. It can be hard to identify the issue, so please <a href="mailto=:cyang@sruc.ac.uk">report</a> it to me along with its error messages.</p>
+  <p>There are several possibilities: the design is too much for the Shiny app server, the Shiny app has run out of its 25 hours of free monthly allowance, or the Shiny app has encountered a bug. It can be hard to identify the issue, so please <a href="mailto:cyang@sruc.ac.uk">report</a> it to me along with its error messages.</p>
   <br>
 </details>
 
