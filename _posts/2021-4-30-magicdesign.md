@@ -93,4 +93,4 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 You can reach me at [cyang@sruc.ac.uk](mailto:cyang@sruc.ac.uk) for any question or suggestion.
 
 ## Reference
-Yang, C. J., R. Edmondson, H.-P. Piepho, W. Powell and I. Mackay, 2021. Crafting for a better MAGIC: systematic design and test for multiparental advanced generation inter-cross population. Biorxiv.
+Yang, C. J., R. N. Edmondson, H.-P. Piepho, W. Powell and I. Mackay, 2021. Crafting for a better MAGIC: systematic design and test for multiparental advanced generation inter-cross population. Biorxiv. [[Link](https://doi.org/10.1101/2021.04.27.441636)]
