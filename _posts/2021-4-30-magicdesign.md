@@ -10,7 +10,7 @@ MAGIC (Multiparental Advanced Generation Inter-Cross) is a highly recombined pop
 
 `magicdesign` is an R package devoted to creating and testing MAGIC population designs via simulations. Click [here](https://cjyang-sruc.github.io/magicdesign_vignette) for detailed instructions on installation and usage.
 
-<iframe width="560" height="315"
+<iframe width="640" height="360"
 src="https://www.youtube-nocookie.com/embed/94JgxeRFSxc"
 title="MAGIC population design"
 frameborder="0"
