@@ -59,4 +59,4 @@ allowfullscreen></iframe>
 You can reach me at [cyang@sruc.ac.uk](mailto:cyang@sruc.ac.uk) for any question or suggestion.
 
 ## Reference
-Yang, C. J., R. N. Edmondson, H.-P. Piepho, W. Powell and I. Mackay, 2021. Crafting for a better MAGIC: systematic design and test for multiparental advanced generation inter-cross population. G3. [[Link](https://doi.org/10.1093/g3journal/jkab295)]
+Yang CJ, Edmondson RN, Piepho H-P, Powell W & Mackay I (2021) Crafting for a better MAGIC: systematic design and test for multiparental advanced generation inter-cross population. G3 11: jkab295. [[Link](https://doi.org/10.1093/g3journal/jkab295)]
