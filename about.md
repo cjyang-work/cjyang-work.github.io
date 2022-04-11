@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am CJ Yang, a postdoc at SRUC working in plant quantitative genetics with Prof. Ian Mackay, Prof. Wayne Powell, Dr. Rajiv Sharma, Dr. Ian Dawson and Dr. David Marshall.  
-Here is my [CV](https://cjyang-work.github.io/CV_web).  
+Hi, I am CJ Yang, currently a postdoc in the SRUC Principal's Research Group (Wayne Powell, Ian Mackay, Rajiv Sharma, Ian Dawson, David Marshall, Nicola Rossi). My research focuses on crop quantitative genetic analyses. Here is my [CV](https://cjyang-work.github.io/CV_web).  
 
 ## Contact me
 
