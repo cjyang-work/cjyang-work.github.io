@@ -37,7 +37,7 @@ BSc Biotechnology and Mathematics, Aug 2009 - May 2012
 
 #### SKILLS
 
-* *Quantitative/Population Genetics*: selection, genetic variances/covariances, heritabilities, phylogenetics.  
+* *Quantitative/Population Genetics*: selection, breeding, genetic gain, genetic variances/covariances, heritabilities, epistasis, phylogenetics.  
 * *Statistics*: linear regression, mixed model, REML, Bayesian, genomic selection, GWAS, QTL mapping.  
 * *Computational Tools*: LINUX, UNIX, Git, Windows, Mac, Microsoft Office, TASSEL.  
 * *Programming*: R, Shiny, Markdown, HTML, Python, SAS, ASReml, Julia.  
@@ -50,9 +50,15 @@ BSc Biotechnology and Mathematics, Aug 2009 - May 2012
 
 * "MAGIC population design" at the Rank Symposium on Meiosis: Controlling the Recombination Landscape, Grasmere, UK, 4 - 7 April 2022.  
 
+#### ACCEPTED TALK
+
+* "Defining the causes and consequences of phantom epistasis in heterotic hybrids" at the 18th Eucarpia Biometrics in Plant Breeding Conference, Paris, France, 21 - 23 September 2022.  
+
 #### PEER REVIEWS
 
 * Theoretical and Applied Genetics (3)  
+* Nature Plants (1)  
+* Journal of Experimental Botany (1)  
 * Plant Ecology & Diversity (1)  
 
 
@@ -96,7 +102,7 @@ Systems", 22 November 2021.
 
 #### PUBLICATIONS
 
-1. **Yang CJ**, Ladejobi O, Mott R, Powell W & Mackay I (2022) Analysis of historical selection in winter wheat. Biorxiv. doi.org/10.1101/2022.01.07.475391.  
+1. **Yang CJ**, Ladejobi O, Mott R, Powell W & Mackay I (2022) Analysis of historical selection in winter wheat. Theor Appl Genet. doi.org/10.1007/s00122-022-04163-3.  
 2. Samayoa LF, Olukolu BA, **Yang CJ**, Chen Q, Stetter MG, York AM, Sanchez-Gonzalez JJ, Glaubitz JC, Bradbury PJ, Romay MC, Sun Q, Yang J, Ross-Ibarra J, Buckler ES, Doebley JF, Holland JB (2021) Domestication reshaped the genetic basis of inbreeding depression in a maize landrace compared to its wild relative, teosinte. PLoS Genet 17: e1009797.  
 3. **Yang CJ**, Edmondson RN, Piepho H-P, Powell W & Mackay I (2021) Crafting for a better MAGIC: systematic design and test for Multiparental Advanced Generation Inter-Cross population. G3 11: jkab295.  
 4. Chen Q, Samayoa LF, **Yang CJ**, Olukolu BA, York AM, Sanchez-Gonzalez JJ, Xue W, Glaubitz JC, Bradbury PJ, Romay MC, Sun Q, Buckler ES, Holland JB & Doebely JF (2021) A conserved genetic architecture among populations of the maize progenitor, teosinte, was radically altered by domestication. Proc Natl Acad Sci USA 118: e2112970118.  
