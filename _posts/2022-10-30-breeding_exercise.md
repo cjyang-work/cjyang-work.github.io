@@ -8,7 +8,7 @@ This page contains the links to the files required for the breeding exercise. Pl
 * [R functions](https://raw.githubusercontent.com/cjyang-work/lecture/main/conv_adv_breeding/breeding_exercise_v2.R)  
 * [R example scripts](https://raw.githubusercontent.com/cjyang-work/lecture/main/conv_adv_breeding/example_scripts.R)  
 * [CSV file for parameters setup](https://raw.githubusercontent.com/cjyang-work/lecture/main/conv_adv_breeding/BP.csv)  
-* **Not needed unless you can't install the latest AlphaSimR version** [R functions (compatible mode)](https://raw.githubusercontent.com/cjyang-work/lecture/main/conv_adv_breeding/breeding_exercise_v2_modified_to_fit_old_AlphaSimR.R)  
+* [**This file is not needed unless you can't install the latest AlphaSimR version**] [R functions (compatible mode)](https://raw.githubusercontent.com/cjyang-work/lecture/main/conv_adv_breeding/breeding_exercise_v2_modified_to_fit_old_AlphaSimR.R)  
 
 Once you have downloaded the files, you can go to [instructions on how to run the breeding exercise](https://cjyang-work.github.io/breeding_exercise_instructions).  
 
