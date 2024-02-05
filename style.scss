@@ -19,20 +19,20 @@ html {
 
 body {
 	background: $white;
-  font: 12px/1.2 $helvetica;
+  font: 14px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 800px;
+  padding: 0 0px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
