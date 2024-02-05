@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: ""
 ---
 
 {% include Genetic_relationship_lab.html %}
