@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genetic relationship lecture questions
+title: Genetic relationship lecture answers
 ---
 
 1.	**[Background]** Why do we need to study genetic relationship?  
