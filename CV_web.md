@@ -7,7 +7,7 @@ cjyang90@uwalumni.com
 
 #### SUMMARY STATEMENT
 
-Detailed-oriented quantitative geneticist with 11 years of experience in genetics, breeding, domestication, statistics and simulation. Strong track records in delivering results, leading projects, writing grants and publications, teaching courses, mentoring students and engaging with diverse stakeholders. Excellent data analyst, problem solver, team player and communicator. Seeking opportunity to take on interdisciplinary challenges in a collaborative role.  
+Detailed-oriented quantitative geneticist with 12 years of experience in genetics, breeding, domestication, statistics and simulation. Strong track records in delivering results, leading projects, writing grants and publications, teaching courses, mentoring students and engaging with diverse stakeholders. Excellent data analyst, problem solver, team player and communicator. Seeking opportunity to take on interdisciplinary challenges in a collaborative role.  
 
 #### EDUCATION
 
@@ -17,7 +17,7 @@ BS Biotechnology and Mathematics, Indiana University Bloomington, IN, USA (2009-
 #### RESEARCH EXPERIENCE
 
 **Postdoctoral research associate at Scotland's Rural College, Edinburgh, UK** (2019 - present)  
-Advisors: Dr Ian Mackay, Dr Wayne Powell ♦ Theme: genetic analysis, method development and strategy optimization for modern plant breeding ♦ Project 1: develop a new genomic selection model to partition favorable parental contributions for better introgression of exotic alleles into elite germplasm ♦ Project 2: evaluate the Plant Variety Rights (PVR) system and propose an evidence-based improvement with molecular markers ♦ Project 3: analyze crossing schemes in multi-parental populations, build an R package and a Shiny app for simulating and testing population designs ♦ Project 4: develop a trait-free approach for mapping genomic loci under selection in modern plant varieties ♦ Other projects: establish a breeding program for vertically farmed purslane, analyze current and improved statistical models in crop variety trials, integrate genomic selection with mutation breeding, develop novel approach for mapping epistatic and environmental interactions as variance controlling QTLs (vQTLs), test prototypes for indoor cultivation of dulse (*Palmaria palmata*), and analyze the digestibility effects of modern and synthetic wheat straws as chicken feed.  
+Advisors: Dr Ian Mackay ♦ Theme: genetic analysis, method development and strategy optimization for modern plant breeding ♦ Project 1: develop a new genomic selection model to partition favorable parental contributions for better introgression of exotic alleles into elite germplasm ♦ Project 2: evaluate the Plant Variety Rights (PVR) system and propose an evidence-based improvement with molecular markers ♦ Project 3: analyze crossing schemes in multi-parental populations, build an R package and a Shiny app for simulating and testing population designs ♦ Project 4: develop a trait-free approach for mapping genomic loci under selection in modern plant varieties ♦ Other projects: establish a breeding program for vertically farmed purslane, analyze current and improved statistical models in crop variety trials, integrate genomic selection with mutation breeding, develop novel approach for mapping epistatic and environmental interactions as variance controlling QTLs (vQTLs), test prototypes for indoor cultivation of dulse (*Palmaria palmata*), and analyze the digestibility effects of modern and synthetic wheat straws as chicken feed.  
 
 **Postdoctoral research associate at Technical University of Munich, Freising, DE** (2018 - 2019)  
 Advisor: Dr Chris Carolin-Schoen ♦ Theme: maize quantitative genetics ♦ Project: evaluate REML and Bayesian methods in partitioning genetic correlations of early development traits in maize.  
@@ -79,8 +79,10 @@ Advisor: Dr Jeffrey D Palmer ♦ Theme: Lobeliaceae phylogenetics ♦ Project: s
 * Accepted talk, "New ways into plant breeding using eigen/env-GWAS and origin specific genomic selection" at the UK Plant Science Presents Webinar, UK, 27 October 2020.  
 * Invited talk, "MAGIC population design" at the Rank Symposium on Meiosis: Controlling the Recombination Landscape, Grasmere, UK, 4 - 7 April 2022.  
 * Accepted talk, "Defining the causes and consequences of phantom epistasis in heterotic hybrids" at the 18th Eucarpia Biometrics in Plant Breeding Conference, Paris, France, 21 - 23 September 2022.  
-* Invited talk, "Defining the causes and consequences of phantom epistasis in heterotic hybrids" at the Computational Genetics Discussion Group, Edinburgh, UK, 22 November 2022.  
+* Invited talk, "Defining the causes and consequences of phantom epistasis in heterotic hybrids" at the Computational Genetics Discussion Group, Edinburgh, UK, 22 November 2022.
+* Invited talk, “Navigating modern plant breeding with quantitative genetics” at the Department of Plant and Agroecosystem Sciences, University of Wisconsin-Madison, Madison, WI, US, 25 July 2023.  
 * Invited talk, "Breeding for tomorrow: insights from analyses of historical plant variety datasets" at the Professor Ian Mackay Memorial Seminar, Cambridge, UK, 1 February 2024.  
+* Invited talk, “Plant breeding through the lens of quantitative genetics” at the Department of Plant Science, University of Dundee, Dundee, UK, 22 February 2024.  
 
 #### CONFERENCES AND WORKSHOPS
 
