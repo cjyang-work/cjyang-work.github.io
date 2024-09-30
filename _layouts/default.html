@@ -26,10 +26,20 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
+          <ul>
+            <li><a href="{{ site.baseurl }}">Home</a></li>
+            <li class="dropdown">
+              <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/about">About</a>
+                  <a href="{{ site.baseurl }}">Link 2</a>
+                </div>
+            </li>
+          </ul>
+          <!-- <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+          </nav> -->
         </header>
       </div>
     </div>
