@@ -20,7 +20,7 @@ html {
 body {
   background: $white;
   font: 14px/1.4 $helvetica;
-  line-height: 1.5;
+  line-height: 3;
   color: $darkGray;
 }
 
@@ -168,7 +168,7 @@ img {
   float: left;
   width: 62px;
   height: 70px;
-  margin-top: 5px;
+  margin-top: 8px;
   margin-right: 15px;
 
   @include mobile {
