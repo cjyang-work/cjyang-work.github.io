@@ -23,13 +23,52 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <!-- <p class="site-description">{{ site.description }}</p> -->
+            
+            <div class ="navbar">
+              <div class="dropdown">
+                <button class="dropbtn"><a href="{{ site.baseurl }}/">HOME</a></button>
+              </div>
+              
+              <div class="dropdown">
+                <button class="dropbtn"><a href="{{ site.baseurl }}/research">RESEARCH</a></button>                
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/magicdesign">Project</a>
+                </div>
+              </div>
+
+               <div class="dropdown">
+                <button class="dropbtn"><a href="{{ site.baseurl }}/teaching">TEACHING</a></button>                
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/magicdesign">Project</a>
+                </div>
+              </div>
+
+              <div class="dropdown">
+                <button class="dropbtn"><a href="{{ site.baseurl }}/resources">RESOURCES</a></button>                
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/magicdesign">R/magicdesign</a>
+                  <a href="{{ site.baseurl }}/magicdesignee">Shiny/magicdesignee</a>
+                </div>
+              </div>
+
+              <div class="dropdown">
+                <button class="dropbtn"><a href="{{ site.baseurl }}/about">ABOUT</a></button>
+                <div class="dropdown-content">
+                  <a href="{{ site.baseurl }}/CV_web">CV</a>
+                </div>
+              </div>
+
+            </div>
+            
           </div>
 
-          <nav>
+
+          
+          <!-- <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+          </nav> -->
         </header>
       </div>
     </div>
