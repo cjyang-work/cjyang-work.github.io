@@ -1,8 +1,6 @@
 #### CONTACT INFORMATION
 Chin Jian (CJ) Yang  
-cjyang90@uwalumni.com  
 [cjyang-work.github.io](https://cjyang-work.github.io)  
-*Mailing address and phone number are available on request.*
 
 
 #### SUMMARY STATEMENT
@@ -14,9 +12,11 @@ Detailed-oriented quantitative geneticist with 12 years of experience in genetic
 PhD Genetics, University of Wisconsin-Madison, WI, USA (2012-2018)  
 BS Biotechnology and Mathematics, Indiana University Bloomington, IN, USA (2009-2012)  
 
-#### RESEARCH EXPERIENCE
+#### RESEARCH & WORK EXPERIENCE
 
-**Postdoctoral research associate at Scotland's Rural College, Edinburgh, UK** (2019 - present)  
+**Quantitative geneticist at Xelect, St Andrews, UK** (2024 - present)  
+
+**Postdoctoral research associate at Scotland's Rural College, Edinburgh, UK** (2019 - 2024)  
 Advisors: Dr Ian Mackay ♦ Theme: genetic analysis, method development and strategy optimization for modern plant breeding ♦ Project 1: develop a new genomic selection model to partition favorable parental contributions for better introgression of exotic alleles into elite germplasm ♦ Project 2: evaluate the Plant Variety Rights (PVR) system and propose an evidence-based improvement with molecular markers ♦ Project 3: analyze crossing schemes in multi-parental populations, build an R package and a Shiny app for simulating and testing population designs ♦ Project 4: develop a trait-free approach for mapping genomic loci under selection in modern plant varieties ♦ Other projects: establish a breeding program for vertically farmed purslane, analyze current and improved statistical models in crop variety trials, integrate genomic selection with mutation breeding, develop novel approach for mapping epistatic and environmental interactions as variance controlling QTLs (vQTLs), test prototypes for indoor cultivation of dulse (*Palmaria palmata*), and analyze the digestibility effects of modern and synthetic wheat straws as chicken feed.  
 
 **Postdoctoral research associate at Technical University of Munich, Freising, DE** (2018 - 2019)  
